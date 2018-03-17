@@ -1,0 +1,20 @@
+/* Lego CSS */
+
+h1 {
+	font-family: Anton;
+	color: yellow;
+	text-shadow: 7px 7px black;
+	text-align: center;	
+	font-size: 120px;
+}
+
+h2 {
+	text-align: center;
+}
+
+.home-img {
+	width: 	100%;
+}
+.heading {
+	line-height: 50%;
+}
